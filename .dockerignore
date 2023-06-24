@@ -1,0 +1,6 @@
+# Ignore everything in this directory
+doc/
+handouts/
+
+# Ignore pdf files
+*.pdf
